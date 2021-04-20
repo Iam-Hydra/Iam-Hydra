@@ -15,7 +15,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/twitter.png" />
 </a>
 
-<a title="Linkedin" href="https://www.linkedin.com/in/#">
+<a title="Linkedin" href="https://www.linkedin.com/in/habieb-fathur-rahman-85432617b/">
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
 </a>
 
