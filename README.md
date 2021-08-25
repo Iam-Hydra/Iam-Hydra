@@ -19,7 +19,7 @@ You can find and get touch with me on these accounts!
   <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
 </a>
 
-<a title="Instagram" href="https://instagram.com/chydra13">
+<a title="Instagram" href="https://instagram.com/iam.hydraa">
   <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.jpg" />
 </a>
 
