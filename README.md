@@ -1,6 +1,5 @@
 ### Hi there i'm Habieb Fathur Rahman 👋
 
-- 🔭 I’m currently student
 - 🌱 I’m currently learning Javascript
 - ⚡ Fun fact: I spend almost 5 hours reading comic everyday.
 
