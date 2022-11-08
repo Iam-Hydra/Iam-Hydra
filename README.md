@@ -19,7 +19,7 @@ You can find and get touch with me on these accounts!
 </a>
 
 <a title="Instagram" href="https://instagram.com/iam.hydraa">
-  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.jpg" />
+  <img align="left" alt="Wahid Ari " width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
 </a>
 
 <a title="Dev" href="https://dev.to/iamhydra">
